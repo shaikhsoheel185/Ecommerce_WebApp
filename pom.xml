@@ -4,7 +4,7 @@
     <groupId>com.ecom</groupId>
     <artifactId>Ecom</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Ecom-1.0-SNAPSHOT</name>
     
     <properties>
