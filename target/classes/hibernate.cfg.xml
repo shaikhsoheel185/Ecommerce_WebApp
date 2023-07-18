@@ -8,7 +8,7 @@
     <session-factory>
         
         
-        <property name = "connection.driver_class">   com.mysql.jdbc.Driver                </property>
+<!--        <property name = "connection.driver_class">   com.mysql.jdbc.Driver                </property>
         <property name = "connection.url">            jdbc:mysql://localhost:3306/Ecom     </property>
         <property name = "connection.username">       root                                 </property>
         <property name = "connection.password">       root                                 </property>
@@ -22,8 +22,33 @@
         
         <mapping class="com.ecom.entities.User"/>
         <mapping class="com.ecom.entities.Category"/>
+        <mapping class="com.ecom.entities.Product"/>-->
+        
+        
+        
+        
+        
+        <property name = "connection.driver_class">   com.mysql.jdbc.Driver                </property>
+        <property name = "connection.url">            jdbc:mysql://containers-us-west-40.railway.app:5645/railway </property>
+        <property name = "connection.username">       root                                 </property>
+        <property name = "connection.password">       BqJS3V8LVWcFiay2AbiM                 </property>
+        <property name = "dialect">                   org.hibernate.dialect.MySQL8Dialect  </property>
+        <property name = "hbm2ddl.auto">              update                               </property>
+        <property name = "show_sql">                  false                                </property>
+        
+        
+        
+        
+        
+        <mapping class="com.ecom.entities.User"/>
+        <mapping class="com.ecom.entities.Category"/>
         <mapping class="com.ecom.entities.Product"/>
+        
+        
     </session-factory>
-   
+    
+    
+    
+  
 </hibernate-configuration>
             
