@@ -5,6 +5,7 @@
 /home/shaikh/NetBeansProjects/Ecom/src/main/java/com/ecom/servlets/loginServlet.java
 /home/shaikh/NetBeansProjects/Ecom/src/main/java/com/ecom/dao/UserDao.java
 /home/shaikh/NetBeansProjects/Ecom/src/main/java/com/ecom/servlets/ProductOperationServlet.java
+/home/shaikh/NetBeansProjects/Ecom/src/main/java/com/ecom/helper/helper.java
 /home/shaikh/NetBeansProjects/Ecom/src/main/java/com/ecom/entities/Category.java
 /home/shaikh/NetBeansProjects/Ecom/src/main/java/com/ecom/helper/FactoryProvider.java
 /home/shaikh/NetBeansProjects/Ecom/src/main/java/com/ecom/dao/ProductDao.java

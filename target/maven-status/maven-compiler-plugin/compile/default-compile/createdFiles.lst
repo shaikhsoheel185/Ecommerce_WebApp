@@ -2,6 +2,7 @@ com/ecom/ecom/JAXRSConfiguration.class
 com/ecom/entities/User.class
 com/ecom/dao/CategoryDao.class
 com/ecom/servlets/LogoutServlet.class
+com/ecom/helper/helper.class
 com/ecom/servlets/SignupServlet.class
 com/ecom/dao/ProductDao.class
 com/ecom/entities/Category.class
