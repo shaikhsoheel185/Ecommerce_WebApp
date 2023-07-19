@@ -1,4 +1,4 @@
-NewMain.class
+com/ecom/dao/NewMain.class
 com/ecom/ecom/JAXRSConfiguration.class
 com/ecom/entities/User.class
 com/ecom/dao/CategoryDao.class
